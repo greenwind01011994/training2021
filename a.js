@@ -2,7 +2,7 @@ const a = 10;
 const b = 100;
 
 if(a>b)
-    console.log("nghĩ");
+    console.log("nghĩ đi");
 else
     console.log("b = 1 = =100");
 
