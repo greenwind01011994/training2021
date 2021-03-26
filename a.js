@@ -2,7 +2,7 @@ const a = 10;
 const b = 100;
 
 if(a>b)
-    console.log("chưa hiểu");
+    console.log("mệt");
 else
     console.log("b ");
 
