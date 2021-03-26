@@ -7,11 +7,6 @@ if(a>b)
     console.log("chả hiểu");
 else
     console.log("b =1 100");
-=======
-    console.log("chưa hiểu");
-else
-    console.log("b ");
->>>>>>> master
 
 const max = a > b ? a : b;
 console.log(max);
